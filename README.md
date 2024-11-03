@@ -26,11 +26,7 @@
 
 [Link do meu website 6][6]  
 
-[Repositóŕio do site 6][66]
-
-[Link do meu website 6][6]  
-
-[Repositóŕio do site 6][66]
+[Repositóŕio do site 6][66]  
 
 [Link do meu website 7][7]  
 
