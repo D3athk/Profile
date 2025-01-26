@@ -1,8 +1,10 @@
-### Esse é o portfólio das minhas habilidades e está em open source tudo o que eu postar aqui sinta-se livre para reeditar e fazer o que quiser com o algoritmo
+### Esse é o portfólio das minhas habilidades algumas está em open source tudo o que eu postar aqui sinta-se livre para reeditar e fazer o que quiser com o algoritmo
 
 ![](https://i.ibb.co/jVqDfjx/logo2.png)  
 
 ![](https://i.ibb.co/K60fdW7/logo.png)
+
+[Camille Secrets][7777]
 
 [Repositório da minha primeira E-commerce][777]
 
@@ -57,6 +59,7 @@
 [6]: https://d3athk.github.io/Site_six/
 [77]:https://github.com/D3athk/Site_seven
 [777]:https://github.com/D3athk/AI-Ecommerce-Algoritmo
+[7777]:https://d3athk.github.io/Camille-Secrets/
 [7]: https://d3athk.github.io/Site_seven/
 [88]:https://github.com/D3athk/Site_eight
 [8]: https://d3athk.github.io/Site_eight/
