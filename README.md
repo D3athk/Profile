@@ -1,4 +1,4 @@
-### Esse é o portfólio das minhas habilidades. Algumas está em open source, tudo o que eu postar aqui sinta-se livre para reeditar e fazer o que quiser com o algoritmo
+### Esse é o portfólio das minhas habilidades. Algumas estão em open source, tudo o que eu postar aqui sinta-se livre para reeditar e fazer o que quiser com o algoritmo
 
 ![](https://i.ibb.co/jVqDfjx/logo2.png)  
 
