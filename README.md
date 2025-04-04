@@ -59,7 +59,7 @@
 [6]: https://d3athk.github.io/Site_six/
 [77]:https://github.com/D3athk/Site_seven
 [777]:https://github.com/D3athk/AI-Ecommerce-Algoritmo
-[7777]:https://d3athk.github.io/Camille-Secrets/
+[7777]:https://camillesecrets.github.io/Camille-Secrets/
 [7]: https://d3athk.github.io/Site_seven/
 [88]:https://github.com/D3athk/Site_eight
 [8]: https://d3athk.github.io/Site_eight/
